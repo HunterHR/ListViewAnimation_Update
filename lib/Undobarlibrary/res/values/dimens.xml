@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="undobarMarginLeft">8dp</dimen>
+    <dimen name="undobarMarginRight">8dp</dimen>
+    <dimen name="undobarMarginBottom">16dp</dimen>
+    <dimen name="undobarBackgroundColor">16dp</dimen>
+    <dimen name="undoBarCornerRadius">0dp</dimen>
+</resources>

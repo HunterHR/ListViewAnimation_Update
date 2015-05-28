@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Undobar">
+        <attr name="undoBarStyle" format="reference"/>
+        <attr name="ub_inAnimation" format="reference" />
+        <attr name="ub_outAnimation" format="reference" />
+        <attr name="ub_containerStyle" format="reference"/>
+        <attr name="ub_messageStyle" format="reference"/>
+        <attr name="ub_buttonStyle" format="reference"/>
+        <attr name="ub_dividerStyle" format="reference"/>
+    </declare-styleable>
+
+</resources>
